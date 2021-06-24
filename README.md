@@ -1,3 +1,7 @@
+Description: 
+- Developing the Selenium/WebDriver Automation Framework (Java) with Page Factory Design Pattern 
+- Report: Allure Report
+
 Assumption
 - Install latest Chrome browser
 - Login with LinkedIn account normally without Security Check or Save Login on particular computer 
